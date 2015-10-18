@@ -1,0 +1,2 @@
+debian/bin/AntiBitcoind usr/bin
+src/AntiBitcoind usr/lib/AntiBitcoin
