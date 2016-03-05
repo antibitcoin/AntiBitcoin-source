@@ -1,4 +1,4 @@
-AntiBitcoin (TRON)
+AntiBitcoin (ANTI)
 ===================
 Distributed under the MIT/X11 software license.
 
