@@ -39,7 +39,7 @@ static const unsigned int MAX_INV_SZ = 50000;
 static const int64_t MIN_TX_FEE =  100000;
 static const int64_t MIN_RELAY_TX_FEE = MIN_TX_FEE;
 static const int64_t MAX_MONEY = 40000000 * COIN;
-static const int64_t COIN_YEAR_REWARD = 1 * CENT; // 1% 
+static const int64_t COIN_YEAR_REWARD = 2 * CENT; // 2% 
 
 static const int MODIFIER_INTERVAL_SWITCH = 2500;
 
