@@ -21,6 +21,9 @@ Algorithm SHA256
 RPC Port: 11655
 P2P Port: 11650
 
-
-
+Update
+-------
+10 June 2018
+Project being revived by original dev, anonymousx
+for anyone interested PM me on bitcointalk forums.
 
