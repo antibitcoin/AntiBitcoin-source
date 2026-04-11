@@ -1,3 +1,5 @@
+IMPORTANT: CA on pump.fun is HobRgNaPN5zeuQdBvPuRppeZru72gHXZEDP3CYv1pump
+
 AntiBitcoin (ANTI)
 ===================
 Distributed under the MIT/X11 software license.
