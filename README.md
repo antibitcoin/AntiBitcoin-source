@@ -1,4 +1,3 @@
-IMPORTANT: CA on pump.fun is HobRgNaPN5zeuQdBvPuRppeZru72gHXZEDP3CYv1pump
 
 AntiBitcoin (ANTI)
 ===================
